@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:0
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
 #EXTINF:-1 ,All Ladies Do It
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://ia802903.us.archive.org/28/items/x-movies/All_Ladies_Do_It_%281992%29%2FAll_Ladies_Do_It_%281992%29_BRRip_1920x1072p.mp4
